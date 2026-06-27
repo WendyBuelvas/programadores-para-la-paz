@@ -1,0 +1,57 @@
+PS C:..\ pwd
+Path                                                     
+----                                                  
+
+PS C:..\ ls
+Directorio: C:
+
+Mode                 LastWriteTime         Length Name                                                               
+----                 -------------         ------ ----                                                               
+d-----     22/06/2026  12:27 p. m.                semana1                                                            
+-a----     22/06/2026  12:26 p. m.             27 README.md                                                          
+
+
+PS C:...\ mkdir semana2
+
+
+    Directorio: C:\
+
+
+Mode                 LastWriteTime         Length Name                                                               
+----                 -------------         ------ ----                                                               
+d-----      26/06/2026  9:50 p. m.                semana2                                                            
+
+
+PS C:..\ cd semana2
+PS C:..\ ni preguntas-semana2.txt
+
+
+    Directorio: C:...\semana2
+
+
+Mode                 LastWriteTime         Length Name                                                               
+----                 -------------         ------ ----                                                               
+-a----      26/06/2026  9:50 p. m.              0 preguntas-semana2.txt                                              
+
+
+PS C:..\ ni comandos-terminal.txt
+
+
+    Directorio: C:
+
+
+Mode                 LastWriteTime         Length Name                                                               
+----                 -------------         ------ ----                                                               
+-a----      26/06/2026  9:51 p. m.              0 comandos-terminal.txt                                              
+
+
+PS C:..\ ni reflexion-semana2.txt
+
+
+    Directorio: C:
+
+
+Mode                 LastWriteTime         Length Name                                                               
+----                 -------------         ------ ----                                                               
+-a----      26/06/2026  9:51 p. m.              0 reflexion-semana2.txt                                              
+
