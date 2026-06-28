@@ -1,0 +1,8 @@
+Esta ruta permite que el servidor procese la información enviada por un usuario o una aplicación. 
+En este caso, obtiene el mensaje desde el cuerpo de la solicitud mediante req.body.mensaje y responde con un objeto en 
+formato JSON confirmando que el reporte fue recibido exitosamente.
+
+En una plataforma comunitaria, esta funcionalidad podría utilizarse para que los ciudadanos registren incidentes, alertas, 
+necesidades o propuestas relacionadas con su comunidad. Por ejemplo, una persona podría informar sobre un problema en su barrio, 
+anunciar una actividad comunitaria o solicitar apoyo. De esta manera, la información se centraliza y facilita que los 
+responsables o la comunidad den seguimiento y respondan de forma más eficiente.
