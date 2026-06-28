@@ -1,0 +1,4 @@
+Las APIs permiten que diferentes aplicaciones y sistemas intercambien información de forma rápida, organizada y segura. 
+En una comunidad, pueden facilitar el envío y la consulta de reportes, alertas o avisos sin necesidad de realizar procesos 
+manuales. Esto ayuda a centralizar la información, mejorar la comunicación entre los usuarios y las entidades responsables, 
+y ofrecer respuestas más oportunas a las necesidades de la comunidad.
