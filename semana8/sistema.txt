@@ -1,0 +1,8 @@
+Comando systeminfo:
+Este comando proporciona información detallada sobre el sistema operativo y el equipo. Entre los datos que muestra se encuentran el nombre del sistema, la versión instalada, la arquitectura y otras características técnicas. Es una herramienta útil para conocer el entorno donde se está ejecutando el sistema.
+
+Comando whoami:
+Este comando indica el nombre del usuario que tiene la sesión activa en la terminal. Permite identificar con qué cuenta se están ejecutando las acciones, lo cual es importante porque cada usuario puede contar con diferentes niveles de permisos.
+
+Importancia:
+Disponer de información sobre el sistema facilita la administración de un servidor, ya que permite conocer sus características, verificar su estado y comprobar la compatibilidad con distintos programas o configuraciones. Asimismo, identificar el usuario que está conectado ayuda a controlar los permisos, evitar errores de acceso y reforzar la seguridad del servidor.

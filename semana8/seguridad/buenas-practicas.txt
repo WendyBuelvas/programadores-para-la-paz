@@ -1,0 +1,3 @@
+1.Utilizar contraseñas seguras y únicas, combinando letras, números y símbolos, y cambiándolas periódicamente.
+2. Mantener el sistema y las aplicaciones actualizadas, para corregir vulnerabilidades y reducir el riesgo de ataques.
+3. Realizar copias de seguridad (backups) de forma periódica, con el fin de proteger la información y poder recuperarla en caso de pérdida o fallos del sistema.
