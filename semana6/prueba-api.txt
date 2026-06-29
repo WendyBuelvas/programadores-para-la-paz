@@ -1,0 +1,11 @@
+Al hacer una petición POST a la ruta /registro con el siguiente cuerpo:
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+La respuesta que se obtiene es: 
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}

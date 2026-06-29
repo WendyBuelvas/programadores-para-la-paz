@@ -1,0 +1,11 @@
+Petición POST a la ruta /incidencia con el siguiente cuerpo:
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
+La respuesta que se obtiene es:
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
