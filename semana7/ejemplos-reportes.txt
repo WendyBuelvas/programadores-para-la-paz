@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Ambiental",
+  "descripcion": "Contaminación del agua en la laguna"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Laboral",
+  "descripcion": "Falta de higiene en el lugar de trabajo"
+}
