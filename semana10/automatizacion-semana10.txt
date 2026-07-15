@@ -1,0 +1,8 @@
+Evento: Se registra una nueva incidencia en la plataforma.
+
+Acción: n8n envía automáticamente una notificación al grupo de Telegram del equipo.
+
+Mensaje: "Se ha recibido un nuevo reporte comunitario. Ingresa al sistema para revisarlo y darle seguimiento."
+
+Información que no debe enviarse: Nombres completos, números de identificación, direcciones, teléfonos, contraseñas 
+ni cualquier otro dato personal o sensible.

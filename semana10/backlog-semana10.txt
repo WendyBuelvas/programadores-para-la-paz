@@ -1,0 +1,3 @@
+1. Como ciudadano quiero registrar una incidencia para reportar un problema en mi comunidad. (Alta prioridad)
+2. Como coordinador quiero recibir una alerta en Telegram cuando se registre un nuevo reporte para atenderlo rápidamente. (Media prioridad)
+3. Como miembro del equipo quiero consultar el estado de los reportes para hacer seguimiento a cada caso. (Baja prioridad)
