@@ -1,0 +1,5 @@
+La plataforma contaría con una pantalla principal donde se muestren todas las causas comunitarias activas. 
+En la parte superior habría un formulario para crear una nueva causa, ingresando el título y una breve descripción. 
+Cada causa aparecería en una tarjeta con su información principal, un botón "Apoyar" y un contador que indique el número de 
+apoyos recibidos. La interfaz tendría un diseño intuitivo y accesible para facilitar su uso por cualquier persona. 
+Además, solo se mostraría la información necesaria de las causas, evitando exponer datos personales de los usuarios.
