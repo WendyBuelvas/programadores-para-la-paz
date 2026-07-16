@@ -1,0 +1,8 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta muy útil para fortalecer la participación ciudadana y 
+la organización comunitaria. Comprendí la importancia de diseñar plataformas que permitan registrar y gestionar información de 
+forma organizada. También aprendí que una base de datos es fundamental para almacenar la información de manera segura. Entendí 
+que la autenticación de usuarios ayuda a proteger el acceso a la plataforma y a garantizar la privacidad. Además, conocí cómo la 
+automatización con herramientas como n8n y Telegram puede facilitar la comunicación y el seguimiento de las actividades. 
+Igualmente, comprendí la importancia de priorizar tareas mediante un backlog y trabajar por iteraciones para mejorar continuamente los 
+proyectos. Finalmente, aprendí que el desarrollo de soluciones tecnológicas debe ir acompañado de un uso responsable de la información y del 
+compromiso con las necesidades de la comunidad.

@@ -1,0 +1,23 @@
+Entidad: Causa
+Campos principales:
+id
+título
+descripción
+fecha
+
+¿Para qué sirve?
+Permite almacenar la información de cada causa o petición creada por los ciudadanos para que pueda ser consultada y 
+gestionada en la plataforma.
+
+
+
+Entidad: Apoyo
+Campos principales:
+id
+causa_id
+usuario
+fecha
+
+¿Para qué sirve?
+Registra los apoyos que recibe cada causa y los relaciona con la petición correspondiente para llevar un control de la 
+participación ciudadana.

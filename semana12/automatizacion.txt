@@ -1,0 +1,4 @@
+Evento: Un ciudadano registra una nueva causa en la plataforma.
+Mensaje: "Se ha creado una nueva causa comunitaria. Ingresa al sistema para revisarla y darle seguimiento."
+Información que no debe enviarse: Nombres completos, números de identificación, teléfonos, direcciones, contraseñas, 
+correos electrónicos ni cualquier otro dato personal o sensible de los usuarios.

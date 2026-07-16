@@ -1,0 +1,5 @@
+1. El ciudadano inicia sesión en la plataforma.
+2. Completa el formulario para registrar una nueva causa comunitaria.
+3. La información se guarda en la base de datos y la causa queda publicada.
+4. Otros usuarios pueden visualizar la causa y presionar el botón "Apoyar".
+5. El sistema actualiza automáticamente el contador de apoyos y registra la participación de cada usuario.
